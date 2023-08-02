@@ -1,0 +1,27 @@
+{
+  "name": "lk99-js",
+  "version": "0.0.1",
+  "description": "Next-generation superconductor levitating the web",
+  "main": "index.cjs",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x64Bits/lk99-js"
+  },
+  "keywords": [
+    "lk-99",
+    "superconductor",
+    "framework"
+  ],
+  "author": "Ignacio Zsabo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/startaken1/lk99-js/issues"
+  },
+  "homepage": "https://github.com/startaken1/lk99-js#readme"
+}
